@@ -56,7 +56,8 @@ input_data = [
 
 if st.button("Predict Churn"):
     # Send the processed data to the Flask API for prediction
-    response = requests.post('http://127.0.0.1:5000/predict', json={'features': input_data})
+    response = requests.post('https://churn-prediction-710ae498d538.herokuapp.com/predict', json={'features': input_data})
+    #response = requests.post('http://127.0.0.1:5000/predict', json={'features': input_data})
     
     if response.status_code == 200:
         prediction = response.json()
