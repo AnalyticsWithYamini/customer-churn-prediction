@@ -66,4 +66,4 @@ if st.button("Predict Churn"):
         else:
             st.success(f"The customer is not likely to churn. Probability: {prediction['churn_probability']:.2f}")
     else:
-        st.error("Failed to get prediction")
+        st.error(f"Failed to get prediction. Status Code: {response.status_code}, Response: {response.text}")

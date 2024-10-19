@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
+import os
 
 app = Flask(__name__)
 
@@ -20,4 +21,6 @@ def predict():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Set the host and port for Heroku and local development
+    port = int(os.environ.get('PORT', 5000))  # Use the PORT environment variable set by Heroku, fallback to 5000 for local
+    app.run(host='0.0.0.0', port=port)  # Make the server available on all interfaces
