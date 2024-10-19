@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727328390838
+current_stage: None
+description: null
+last_updated_timestamp: 1727328390838
+name: XGB-Smote
+run_id: ccd6e6ee90f64314ad4c2823b13c5119
+run_link: null
+source: file:///C:/Users/Sakshi/OneDrive/Desktop/churn_prediction_project/jupyter/mlruns/117799563249045474/ccd6e6ee90f64314ad4c2823b13c5119/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Sakshi/OneDrive/Desktop/churn_prediction_project/jupyter/mlruns/117799563249045474/ccd6e6ee90f64314ad4c2823b13c5119/artifacts/model
+user_id: null
+version: 3

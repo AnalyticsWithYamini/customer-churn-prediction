@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sakshi/OneDrive/Desktop/churn_prediction_project/jupyter/mlruns/117799563249045474/ccd6e6ee90f64314ad4c2823b13c5119/artifacts
+end_time: 1727328390861
+entry_point_name: ''
+experiment_id: '117799563249045474'
+lifecycle_stage: active
+run_id: ccd6e6ee90f64314ad4c2823b13c5119
+run_name: XGBClassifier With SMOTE
+run_uuid: ccd6e6ee90f64314ad4c2823b13c5119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727327377349
+status: 3
+tags: []
+user_id: Sakshi

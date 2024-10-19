@@ -1,0 +1,15 @@
+Model Comparison: Random Forest vs XGBoost
+
+Random Forest:
+Accuracy: 0.8595
+Precision: 0.7545
+Recall: 0.4224
+F1-Score: 0.5416
+AUC-ROC: 0.8648
+
+XGBoost:
+Accuracy: 0.8630
+Precision: 0.7449
+Recall: 0.4606
+F1-Score: 0.5692
+AUC-ROC: 0.8630

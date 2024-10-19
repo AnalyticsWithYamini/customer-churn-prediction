@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+flask
+joblib
+xgboost
+streamlit
+requests
+mlflow
+imblearn
+notebook
+shap

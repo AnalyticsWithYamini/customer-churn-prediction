@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sakshi/OneDrive/Desktop/churn_prediction_project/jupyter/mlruns/117799563249045474/478dd4d49d6941849eef981488562f81/artifacts
+end_time: 1727327370745
+entry_point_name: ''
+experiment_id: '117799563249045474'
+lifecycle_stage: active
+run_id: 478dd4d49d6941849eef981488562f81
+run_name: Logistic Regression
+run_uuid: 478dd4d49d6941849eef981488562f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727327364426
+status: 3
+tags: []
+user_id: Sakshi

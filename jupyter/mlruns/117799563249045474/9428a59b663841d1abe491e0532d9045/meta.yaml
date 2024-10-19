@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Sakshi/OneDrive/Desktop/churn_prediction_project/jupyter/mlruns/117799563249045474/9428a59b663841d1abe491e0532d9045/artifacts
+end_time: 1727327374086
+entry_point_name: ''
+experiment_id: '117799563249045474'
+lifecycle_stage: active
+run_id: 9428a59b663841d1abe491e0532d9045
+run_name: Random Forest
+run_uuid: 9428a59b663841d1abe491e0532d9045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727327370754
+status: 3
+tags: []
+user_id: Sakshi
